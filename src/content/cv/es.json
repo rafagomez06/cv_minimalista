@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Rafael Gómez",
+    "label": "Desarrollador Full-Stack con enfoque en Backend. Interesado de las tecnologías.",
+    "image": "/me.webp",
+    "email": "rafael.gomez.cazarez@gmail.com",
+    "phone": "+52 6673881307",
+    "url": "https://www.linkedin.com/in/soyrafaelgomez/",
+    "summary": [
+      {
+        "paragraph": "Mi experiencia ha sido en el desarrollo del lado del cliente (Front-End) como el del servidor (Back-End),  así como también he realizado el Rol de Ingeniero de pruebas QA(Testing)."
+      },
+      {
+        "paragraph": "En mi trayectoria profesional,he trabajado de la mano con equipos de lado de negocio para comprender sus necesidades y traducirlas en especificaciones técnicas para garantizar que el desarrollo cumpla con los requisitos establecidos, mi experiencia incluye el uso de metodologías como scrum ,análisis de sistemas y herramientas de documentación para garantizar la calidad y el éxito de los proyectos."
+      }
+    ],
+
+    "location": {
+      "city": "Culiacán",
+      "region": "Sinaloa"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "rafagomez06",
+        "url": "https://github.com/rafagomez06"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "soyrafaelgomez",
+        "url": "https://www.linkedin.com/in/soyrafaelgomez/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Kairos DS",
+      "position": "Desarrollador BackEnd SR",
+      "startDate": "2025-09-17",
+      "endDate": null,
+      "summary": "Desarrollo, mantenimiento y seguimiento a sistemas de gestión de información de ventas legado de cliente en C#,Java,SQL, elaboración de reportería dinámica con CrystalReports y Jaspersoft. Optimización de Procedimientos almacenados para el cotejo de datos de ETL's. ",
+      "highlights": [""],
+      "isRemote": false
+    },
+    {
+      "name": "Fincamex Hogares Fuertes",
+      "position": "Desarrollador FullStack",
+      "startDate": "2024-06-02",
+      "endDate": "2025-09-15",
+      "summary": "Planeación, Análisis y Desarrollo de requerimientos para proyectos financieros, Gestión de Sistema de Recursos Humanos. Soporte y Mantenimiento de Módulo de Sistema Legado. Mantenimiento de Sistema Interno financiero y de gestión de recursos humanos(Ahorro adicional,Finiquitos,Comisiones, Retiros Etc). Maquetado y desarrollo de interfaces frontend utilizando React y AngularJS. Desarrollo y soporte Backend para Api's generadas en Node.js, PHP y Python(Flask).Optimización de funciones y procedimientos almacenados en SQL Server, y elaborado scripts en Python para automatizar tareas rutinarias y mejorar procesos de despliegue.",
+      "highlights": [""],
+      "isRemote": false
+    },
+    {
+      "name": "Gaman Solutions",
+      "position": "Desarrollador FullStack",
+      "startDate": "2024-01-02",
+      "endDate": "2024-06-02",
+      "summary": "Desarrollo de proyectos en Java,Consumo de API/REST,Mejoras en sistemas legados de C++ de escritorio,Migraciones de sistemas PHP a Java,Creación de arquitectura en BD con PostgreSQL, React , Node.Js, Manejo de Actividades en JIRA. Controlador de Versiones GIT.",
+      "highlights": [""],
+      "isRemote": false
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecmilenio",
+      "area": "Maestría en gestión de tecnologías de la información.",
+      "startDate": "2025-01-08",
+      "endDate": null
+    },
+      {
+      "institution": "Universidad Autónoma de Sinaloa",
+      "area": "Licenciado en Informática.",
+      "startDate": "2015-08-01",
+      "endDate": "2020-08-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Getting Started with Data",
+      "date": "2026-02-23",
+      "organization": "IBM",
+      "url": "https://www.credly.com/badges/4f520ff3-b20e-402f-a5b2-c3acbce20ef1/public_url"
+    },
+    {
+      "name": "Curso de Desarrollo de Apps Móviles",
+      "date": "2023-09-01",
+      "organization": "Google",
+      "url": "https://skillshop.exceedlms.com/student/award/g24MJYTiTC9T81s2dzmYVymy"
+    },    
+    {
+      "name": "Software Test Execution Certification",
+      "date": "2021-12-02",
+      "organization": "The QA Testing Channel",
+      "url":"https://www.linkedin.com/in/soyrafaelgomez/"
+    },
+    {
+      "name": "Diplomado en Desarrollo de Aplicaciones Web con Herramientas de Software libre",
+      "date": "2021-02-01",
+      "organization": "Universidad Autónoma de Sinaloa",
+      "url": "https://drive.google.com/file/d/1D2yXuSt64IOwhvCbvreHXzRkIfhW3IGu/view?usp=sharing"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS / Boostrap / AntDesing / React"
+    },
+    {
+      "name": "JavaScript / Node.js"
+    },
+    {
+      "name": "Git / GitHub"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "SQL / Posgresql"
+    },
+    {
+      "name": "Java / SprintBoot"
+    },
+    {
+      "name": "Jenkins"
+    },
+    {
+      "name": "Python / Flask"
+    }
+  ],
+  "softskills": [
+    {
+      "name": "Resolución de problemas"
+    },
+    {
+      "name": "Comunicación"
+    },
+    {
+      "name": "Liderazgo"
+    },
+    {
+      "name": "Trabajo en equipo"
+    },
+    {
+      "name": "Pensamiento crítico"
+    },
+    {
+      "name": "Autodidacta"
+    },
+    {
+      "name": "Gestión del tiempo"
+    },
+    {
+      "name": "Mejora de procesos"
+    },
+    {
+      "name": "Innovación"
+    }
+  ],
+  "projects": [
+    
+  ]
+}
