@@ -4,7 +4,7 @@
 A clean, minimalistic, ready to print resume website, where I show my professional experience, projects, certifications and education, built with [Astro](https://astro.build/).
 
 ## 🥃 Preview
-(https://cv-rafaelgomez.netlify.app/)
+[CV-DEMO](https://cv-rafaelgomez.netlify.app/) 
     
 
 ## 🔥 Features
