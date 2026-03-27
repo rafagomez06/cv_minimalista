@@ -5,6 +5,7 @@ A clean, minimalistic, ready to print resume website, where I show my profession
 
 ## 🥃 Preview
 
+    https://cv-rafaelgomez.netlify.app/
 
 ## 🔥 Features
 
