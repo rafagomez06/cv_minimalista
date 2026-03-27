@@ -5,8 +5,6 @@ A clean, minimalistic, ready to print resume website, where I show my profession
 
 ## 🥃 Preview
 
-![Minismalist Resume Preview](https://github.com/INGCapaDev/minimalist-resume/assets/114124075/7dce18f0-864a-47bf-9f81-e5df738f5d0f)
-
 
 ## 🔥 Features
 
@@ -23,7 +21,6 @@ A clean, minimalistic, ready to print resume website, where I show my profession
 
 ## ⚓ Lighthouse Score 100/100
 
-![Lighthouse score](https://github.com/INGCapaDev/minimalist-resume/assets/114124075/52fc59c6-4c13-421f-bbc4-2687a160b6b3)
 
 ## 🚀 Getting Started
 
