@@ -38,7 +38,7 @@
       "position": "Desarrollador BackEnd SR",
       "startDate": "2025-09-17",
       "endDate": null,
-      "summary": "Desarrollo, mantenimiento y seguimiento a sistemas de gestión de información de ventas legado de cliente en C#,Java,SQL, elaboración de reportería dinámica con CrystalReports y Jaspersoft. Optimización de Procedimientos almacenados para el cotejo de datos de ETL's. ",
+      "summary": "Migración de arquitectura a sistemas legados (C# .net y SQL Server) hacia una infraestructura moderna de microservicios de Java (v17/21) con Spring Boot, integrada con PostgreSQL. Reducción en tiempos de respuesta para la generación de reportería dinámica de carteras de clientes, finanzas y tiendas, mediante la implementación de Jaspersoft.Optimización de Procedimientos almacenados para el cotejo de datos de ETL's.  mejorando el flujo y pase de información crítica entre servidores, lo que garantizó la integridad y disponibilidad de los datos financieros.",
       "highlights": [""],
       "isRemote": false
     },
@@ -65,7 +65,7 @@
     {
       "institution": "Universidad Tecmilenio",
       "area": "Maestría en gestión de tecnologías de la información.",
-      "startDate": "2025-01-08",
+      "startDate": "2026-01-08",
       "endDate": null
     },
       {
