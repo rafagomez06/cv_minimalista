@@ -8,7 +8,7 @@
     "url": "https://www.linkedin.com/in/soyrafaelgomez/",
     "summary": [
       {
-        "paragraph": "Mi experiencia ha sido en el desarrollo del lado del cliente (Front-End) como el del servidor (Back-End),  así como también he realizado el Rol de Ingeniero de pruebas QA(Testing)."
+        "paragraph": "Experiencia construyendo APIs REST y Web Services en Java/Spring Boot, Python con Flask y C# con .NET para Backend. Realizando migraciones de arquitecturas legadas a infraestructuras modernas, optimizado procesos SQL y desarrollado soluciones full stack en empresas de sectores financiero, retail y agroindustrial. Actualmente estoy cursando la Maestría en Gestión de Tecnologías de la Información."
       },
       {
         "paragraph": "En mi trayectoria profesional,he trabajado de la mano con equipos de lado de negocio para comprender sus necesidades y traducirlas en especificaciones técnicas para garantizar que el desarrollo cumpla con los requisitos establecidos, mi experiencia incluye el uso de metodologías como scrum ,análisis de sistemas y herramientas de documentación para garantizar la calidad y el éxito de los proyectos."
@@ -35,7 +35,7 @@
   "work": [
     {
       "name": "Kairos DS",
-      "position": "Desarrollador BackEnd SR",
+      "position": "Desarrollador BackEnd",
       "startDate": "2025-09-17",
       "endDate": "2026-05-15",
       "summary": "Migración de arquitectura a sistemas legados (C# .net y SQL Server) hacia una infraestructura moderna de microservicios de Java (v17/21) con Spring Boot, integrada con PostgreSQL. Reducción en tiempos de respuesta para la generación de reportería dinámica de carteras de clientes, finanzas y tiendas, mediante la implementación de Jaspersoft.Optimización de Procedimientos almacenados para el cotejo de datos de ETL's.  mejorando el flujo y pase de información crítica entre servidores, lo que garantizó la integridad y disponibilidad de los datos financieros.",
