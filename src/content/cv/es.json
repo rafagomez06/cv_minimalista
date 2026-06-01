@@ -54,18 +54,9 @@
     {
       "name": "Gaman Solutions",
       "position": "Desarrollador FullStack",
-      "startDate": "2024-01-02",
+      "startDate": "2023-09-02",
       "endDate": "2024-06-02",
       "summary": "Desarrollo de proyectos en Java,Consumo de API/REST,Mejoras en sistemas legados de C++ de escritorio,Migraciones de sistemas PHP a Java,Creación de arquitectura en BD con PostgreSQL, React , Node.Js, Manejo de Actividades en JIRA. Controlador de Versiones GIT.",
-      "highlights": [""],
-      "isRemote": false
-    },
-    {
-      "name": "Agricola Paredes",
-      "position": "Desarrollador FullStack",
-      "startDate": "2023-09-15",
-      "endDate": "2024-01-03",
-      "summary": "Desarrollo de APIs REST,Soporte a sistema legado en Visual Basic 6.Manejo de bases de datos SQL Server y MySQL.Diseño e implementación de Stored Procedures en SQL Server. Mantenimiento portal interno en PHP , integrando nvas tecnologías. como rediseño UX/UI, Migración Backend.",
       "highlights": [""],
       "isRemote": false
     },
