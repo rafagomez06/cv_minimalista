@@ -124,10 +124,13 @@
       "name": "HTML"
     },
     {
-      "name": "CSS / Boostrap / AntDesing / React"
+      "name": "CSS / Boostrap / AntDesing / React / Tailwind"
     },
     {
       "name": "JavaScript / Node.js"
+    },
+    {
+      "name": "C# / .NET"
     },
     {
       "name": "Git / GitHub"
@@ -136,7 +139,7 @@
       "name": "PHP"
     },
     {
-      "name": "SQL / Posgresql"
+      "name": "SQL / Posgresql / Sqlalchemy"
     },
     {
       "name": "Java / SprintBoot"
