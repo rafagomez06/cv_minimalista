@@ -86,7 +86,7 @@
       "startDate": "2026-01-08",
       "endDate": null
     },
-      {
+    {
       "institution": "Universidad Autónoma de Sinaloa",
       "area": "Licenciado en Informática.",
       "startDate": "2015-08-01",
@@ -105,12 +105,12 @@
       "date": "2023-09-01",
       "organization": "Google",
       "url": "https://skillshop.exceedlms.com/student/award/g24MJYTiTC9T81s2dzmYVymy"
-    },    
+    },
     {
       "name": "Software Test Execution Certification",
       "date": "2021-12-02",
       "organization": "The QA Testing Channel",
-      "url":"https://www.linkedin.com/in/soyrafaelgomez/"
+      "url": "https://www.linkedin.com/in/soyrafaelgomez/"
     },
     {
       "name": "Diplomado en Desarrollo de Aplicaciones Web con Herramientas de Software libre",
@@ -178,6 +178,17 @@
     }
   ],
   "projects": [
-    
+    {
+      "name": "Convertidor CSV a SQL",
+      "isActive": true,
+      "description": "Elaboré una herramienta que convierte los archivos de formato .CSV a un formato .SQL, esto enfocado para base de datos.",
+      "highlights": [
+        "Manejo de archivos .CSV",
+        "React",
+        "Generación de Scripts .SQL",
+        "Automatización"
+      ],
+      "url": "https://csv-to-sql-converter.netlify.app/"
+    }
   ]
 }
