@@ -192,6 +192,18 @@
         "Automatización"
       ],
       "url": "https://csv-to-sql-converter.netlify.app/"
+    },
+    {
+      "name": "Generador Menú Digital",
+      "isActive": true,
+      "description": "Herramienta que ayuda a restaurantes a modernizar la gestión de sus menús, facilitando la actualización inmediata de platillos, precios y disponibilidad.(Front En desarrollo)",
+      "highlights": [
+        "Manejo de peticiones","Control de estados",
+        "Generación de Carta Digital",
+        "Tanstack Query","Manejo de caché",
+        "React/Vite/Tailwind","Python/Flask","Postgresql"
+      ],
+      "url": "https://github.com/rafagomez06/menu_digital_base_back/tree/develop"
     }
   ]
 }
