@@ -210,6 +210,18 @@
         "React/Vite/Tailwind","Python/Flask","Postgresql"
       ],
       "url": "https://github.com/rafagomez06/menu_digital_base_back/tree/develop"
+    },
+    {
+      "name": "App Checador",
+      "isActive": true,
+      "description": "App Multi-Plataforma para realizar checadas laborales en base a la ley federal de trabajo de México.",
+      "highlights": [
+        "Manejo de peticiones a backend","Control de estados",
+        "Reportería con Python","Acceso con Biometrico",
+        "Tanstack Query","Manejo de caché","JWT Token","Offline First",
+        "React Native Expo /Tailwind","Python/Flask","SQL Server"
+      ],
+      "url": ""
     }
   ]
 }
