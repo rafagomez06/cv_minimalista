@@ -71,7 +71,7 @@
     },
     {
       "name": "Corporativo Casa Ley",
-      "position": "Desarrollador FullStack",
+      "position": "Desarrollador BackEnd",
       "startDate": "2018-08-01",
       "endDate": "2020-07-01",
       "summary": "Desarrollador Backend enfocado en la creación de microservicios Rest/API con tecnologías como C#, .Net, SQL Server. Desarrollo de Stored Procedures en SQL Server.Pruebas en Dispositivos handheld para Tiendas, Bodegas y Cedis.",
@@ -94,6 +94,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Journey to Cloud: Envisioning Your Solution",
+      "date": "2026-06-21",
+      "organization": "IBM",
+      "url": "https://www.credly.com/badges/fc08fab8-28bc-4a76-89ff-c392b29e3ecb/public_url"
+    },
     {
       "name": "Getting Started with Data",
       "date": "2026-02-23",
